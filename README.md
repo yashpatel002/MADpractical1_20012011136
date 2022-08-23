@@ -17,3 +17,6 @@
 
 6. By using a user defined function perform all arithmetic operations.
 ![mad6](https://user-images.githubusercontent.com/110655668/183472638-abce9d77-bb1e-4019-bf86-3b2068ce6db2.png)
+
+7.Find the factorial of number by recursion. Explain "tailrec" keyword.
+![p1_7](https://user-images.githubusercontent.com/110655668/186111131-50dfaff8-e075-4a76-95af-3f8a8922c97a.png)
