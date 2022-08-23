@@ -20,3 +20,6 @@
 
 7.Find the factorial of number by recursion. Explain "tailrec" keyword.
 ![p1_7](https://user-images.githubusercontent.com/110655668/186111131-50dfaff8-e075-4a76-95af-3f8a8922c97a.png)
+
+8.Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
+![p1_8](https://user-images.githubusercontent.com/110655668/186125604-2b8ca4b9-2d48-42e2-aaef-2f13b7c614b1.png)
