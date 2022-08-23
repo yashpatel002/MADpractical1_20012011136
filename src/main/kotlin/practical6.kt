@@ -1,6 +1,5 @@
 fun main() {
     op(111,2222,-222)
-
 }
 fun op(n1:Int, n2:Int ,n3:Int)
 {
